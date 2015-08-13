@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "path": {
+      "version": "0.11.14"
+    },
+    "util-is": {
+      "version": "0.1.0"
+    }
+  }
+}

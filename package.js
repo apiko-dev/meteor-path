@@ -5,7 +5,7 @@
 
 Package.describe({
   name: 'jss:path',
-  version: '0.0.1',
+  version: '0.0.3',
   summary: 'Wrapper for Node "path" package.',
   git: 'https://github.com/JSSolutions/meteor-path'
 });
