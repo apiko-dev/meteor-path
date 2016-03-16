@@ -18,7 +18,7 @@ Package.onUse(function(api) {
 
 Npm.depends({
   'util-is': '0.1.0',
-  path: '0.11.14'
+  path: '0.12.7'
 });
 
 Package.onTest(function(api) {
